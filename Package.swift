@@ -8,8 +8,13 @@ name: "citrix-mam-sdk",
         .iOS(.v15),
     ],
     products: [
-        .library(name: "CitrixLogger", targets: ["CitrixLogger"]),
-        .library(name: "CTXMAMAppCore", targets: ["CTXMAMAppCore"]),
+        .library(
+            name: "CTXMAMAppCore",
+            targets: [
+                "CitrixLogger",
+                "CTXMAMAppCore",
+            ]
+        ),
         .library(name: "CTXMAMCompliance", targets: ["CTXMAMCompliance"]),
         .library(name: "CTXMAMContainment", targets: ["CTXMAMContainment"]),
         .library(name: "CTXMAMCore", targets: ["CTXMAMCore"]),
