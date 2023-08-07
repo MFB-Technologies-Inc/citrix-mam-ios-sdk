@@ -2,7 +2,7 @@
 //  CTXMAMAnalytics.h
 //
 //  Created by Chris Pavlou on 5/2/16.
-//  Copyright © 2017-2021 Citrix Systems, Inc. All rights reserved.
+//  Copyright © 2017-2023 Cloud Software Group, Inc. All Rights Reserved. Confidential & Proprietary.
 //
 
 #import <Foundation/Foundation.h>
@@ -98,6 +98,8 @@ extern NSString * const MdxAnalyticsComponent_AGConfiguration;
 -(void)sendMdxWKWebViewProcessDidTerminateEvent: (NSString *)url;
 
 -(void)sendHitsInBackground;
+
+-(BOOL)isGoogleAnalytics4Enabled;
 
 @end
 

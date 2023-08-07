@@ -95,5 +95,9 @@ delegate callback.
 */
 + (BOOL)logoffApp;
 
+/*!
+ @brief Set Cordova framework relevant info after SDKs are initialized.
+ */
++ (void)setCordovaInfoAfterBeingInitialized;
 @end
 

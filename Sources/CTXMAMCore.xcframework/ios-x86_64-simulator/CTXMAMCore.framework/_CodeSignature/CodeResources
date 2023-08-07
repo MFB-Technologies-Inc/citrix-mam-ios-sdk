@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CTXMAMAnalytics.h</key>
 		<data>
-		NkFOGExunLxu2kZCk62ROJS/Y80=
+		09UmU8xcmuFnerv/r7HGcDowLxE=
 		</data>
 		<key>Headers/CTXMAMConfigManager.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/CTXMAMCore.h</key>
 		<data>
-		qflnupfnmq5XnOgu1JB7HnvIUDw=
+		8aoCIuyzC4XrAFglEUUdqghI8UE=
 		</data>
 		<key>Headers/CTXMAMLogger.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YBx2Uyh4HmpZwWZBLH+2Rf5FlGQ=
+		T9BTdMzn3kEZgQiF/gC58ce+ftk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,11 +58,15 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMAlertControllerProxy.h</key>
 		<data>
-		0dDGNAq2/rwEY4rIoDJ1F2X+p/M=
+		GTaXScpjS50UuMVbcFVhH3sv1Qk=
 		</data>
 		<key>PrivateHeaders/CTXMAMAnalyticsConfig.h</key>
 		<data>
-		pGKBZKnn3zCaFeHqLG19la16o3k=
+		kITfQhOttjDA6UnQtwZgWOdmSmI=
+		</data>
+		<key>PrivateHeaders/CTXMAMAnalyticsEUDetector.h</key>
+		<data>
+		7TtQLBCF8gHfYwGgGvTCAoPU2TY=
 		</data>
 		<key>PrivateHeaders/CTXMAMAnalyticsEntry.h</key>
 		<data>
@@ -94,11 +98,11 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManagerConstants.h</key>
 		<data>
-		ACAFZN1fn2lCCKx0lCgyhVpAl10=
+		jAnrX7I8NMDdciPOY3Q77u79WpU=
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManagerPrivate.h</key>
 		<data>
-		8uXFn0dB/9a6UBHZXggsbXvco98=
+		LwPnnV1cnKBhPw7JhJ9p+eqK/Z4=
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManagerTypes.h</key>
 		<data>
@@ -138,7 +142,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMFeatureMgrConfig.h</key>
 		<data>
-		9Ky1rZHCpmHylD5Rw3RfLGgT3OQ=
+		r0crlwSCHdP428KZIfEqTjfN+nU=
 		</data>
 		<key>PrivateHeaders/CTXMAMFeatureMgrPrivate.h</key>
 		<data>
@@ -196,6 +200,10 @@
 		<data>
 		c1QIFAQAqM9HSXPlEULY5+HJsw0=
 		</data>
+		<key>PrivateHeaders/CTXMAMSSLSDKHelper.h</key>
+		<data>
+		KNIYZeZzdEy9N6rdqBkfBrz1GQ8=
+		</data>
 		<key>PrivateHeaders/CTXMAMSceneDelegate.h</key>
 		<data>
 		xc+nTIJqfmaQtHmJ4gs0j11IgwE=
@@ -206,7 +214,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMSingleSignOnProxy.h</key>
 		<data>
-		w6JoUiSXj3XxrqN0AJi/IvlYNN4=
+		C7sHxQtFNNdPd20ymyKfseqdrwg=
 		</data>
 		<key>PrivateHeaders/CTXMAMStack.h</key>
 		<data>
@@ -286,7 +294,7 @@
 		</data>
 		<key>PrivateHeaders/Helper.h</key>
 		<data>
-		6NrT7WGhmx0z8VJqPN2OhKDuSO8=
+		DMB/0j6vA0w9RD2XZjQJXwRb49M=
 		</data>
 		<key>PrivateHeaders/KeyChainHelper.h</key>
 		<data>
@@ -517,7 +525,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NbwAJnvGiNGLO1objs4ZWyqOJ235okMH5+ffcQyQqJw=
+			x0Y+tqN7JXMnK60TM7I3/uZTfDik33boDPcLn0GDtf4=
 			</data>
 		</dict>
 		<key>Headers/CTXMAMConfigManager.h</key>
@@ -531,7 +539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bq31uau8njHZsrcQCKQdt6XFY7U1x/HjvJcxoiQjZ0Q=
+			GG4HvI8Q+keB7Y5+XpNrD9vB7+BdwbLvXPVhoWhIuP4=
 			</data>
 		</dict>
 		<key>Headers/CTXMAMLogger.h</key>
@@ -601,14 +609,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtaCXxuR5s1RzxrIvBdaCQC2bnzrm6PBGxvK74KnBtQ=
+			EJ1OAaqaOhDtRZHpD5AXnoZKV+KsHWidv/evTuhO+q8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMAnalyticsConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emDNpM8BG2hgJBOORpN2Hh+BYNjh2GOTWR6yNfgepPw=
+			EmWSut3Jz7HQmHw8PZGLo7+fWEIWEVoV8u8X0L6Aki0=
+			</data>
+		</dict>
+		<key>PrivateHeaders/CTXMAMAnalyticsEUDetector.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KJRRMYIL0Y5rEWfdzxvwCoHhvZ6b42O9Q+OwTZvzavY=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMAnalyticsEntry.h</key>
@@ -664,14 +679,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nTYkGtS3YlpMFILZnLBO0Yk1Sc57taSkTqx7G1Wr7Gs=
+			N9tzAwjmsfviqcEPYN/mUleAUrZE2ebUMyuAeqhMdKE=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMConfigManagerPrivate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			23bnF6ZvLByOu6fLO4T6ih13yLA4aehufQGNKAXd7Q4=
+			BvS9UwPC4+o2S4QMgFUzt+prhJ3fSba4w4bIWSiX0Y8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMConfigManagerTypes.h</key>
@@ -741,7 +756,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBVn4svcyoecQEuP8JXs1YQlhDaHfEziiz5CPFwb+lM=
+			U23s7xHFP1WfiiaBRgFsajqRuIzvJwH9x8rtAiXeqpA=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMFeatureMgrPrivate.h</key>
@@ -842,6 +857,13 @@
 			z0SgrMoMaZ9kRd29TJQwBXnkDJaZ2bjpaxVfWkexuOs=
 			</data>
 		</dict>
+		<key>PrivateHeaders/CTXMAMSSLSDKHelper.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YsOPzKK83YQRP20GVfg+c58460GeCJLeVGD8YPDhWW0=
+			</data>
+		</dict>
 		<key>PrivateHeaders/CTXMAMSceneDelegate.h</key>
 		<dict>
 			<key>hash2</key>
@@ -860,7 +882,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Vah4OTz/Wpxia9Kz/0eURPN/d9R16xCfd7CMetrVfU=
+			+JhmLAd5OPLmQIwr+SlmLEK5DLIUAL0MAgslylYRvRI=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMStack.h</key>
@@ -1000,7 +1022,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ft/cvLDvUB+qOmOcGsKreSAO0E2X9Oo4rWp/jQRCTvo=
+			t58Gy3/1XNkAkN/F2p0gUOH5pmCZQO4/XHv5x4fmxC8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/KeyChainHelper.h</key>
