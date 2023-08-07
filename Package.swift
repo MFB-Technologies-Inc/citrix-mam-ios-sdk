@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-name: "citrix-mam-sdk",
+    name: "citrix-mam-sdk",
     platforms: [
         .iOS(.v15),
     ],
