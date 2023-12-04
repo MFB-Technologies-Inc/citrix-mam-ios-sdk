@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zEGLArqZtW8/SYL2pAiAYqIDGfQ=
+		sNwnskmFQVmX71MM/GuAmxF19HU=
 		</data>
 		<key>Headers/CTXMAMLocalAuth.h</key>
 		<data>
@@ -14,11 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HqM5tsRJRDvSj2Q/DGvmlHF/5/A=
+		zQsj7gZOXe0NjnbaY3v8zPZcUHs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		dc9DX7h5aiQCWf0PY8Fny3NDhs0=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		6PyG/Sn5jh81qqGDYJ701GSxHBw=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -189,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqebhnuW1lGDhX/LV4iiGdDg/Jn8J0kHMtNxroS1ZEQ=
+			7nuVDgf4gNnTpQOjRSn4/pLv8PFE2QRSvINrW++rsoo=
 			</data>
 		</dict>
 		<key>Headers/CTXMAMLocalAuth.h</key>
@@ -204,6 +208,13 @@
 			<key>hash2</key>
 			<data>
 			/cAMEBU4ocS/vtViwtfwU8BxEliyYq2YW5sjWyVW4pc=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3I1+H5p9p/M4HzB0a1kgbuYs4iW2n+O8u2YjT4RZvjU=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>

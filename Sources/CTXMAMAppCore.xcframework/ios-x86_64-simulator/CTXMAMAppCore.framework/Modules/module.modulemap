@@ -6,6 +6,6 @@ framework module CTXMAMAppCore {
 }
 
 module CTXMAMAppCore.Swift {
-    header "CTXMAMAppCore-Swift.h"
-    requires objc
+  header "CTXMAMAppCore-Swift.h"
+  requires objc
 }

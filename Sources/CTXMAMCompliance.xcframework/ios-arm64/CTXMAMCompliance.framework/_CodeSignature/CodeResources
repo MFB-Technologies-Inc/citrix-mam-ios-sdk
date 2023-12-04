@@ -14,11 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k9R1PcPV0NDbUACqc3699MDYv3Q=
+		mhUo0VvqHeXMfWNg2iLLNJ6677w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		OxuqkzOMQtdhrp3syQKVfgmw6L4=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		6PyG/Sn5jh81qqGDYJ701GSxHBw=
 		</data>
 		<key>PrivateHeaders/CTXMAMComplianceConstants.h</key>
 		<data>
@@ -208,6 +212,13 @@
 			<key>hash2</key>
 			<data>
 			ARwV4dMIZ8JJUvkLGY3wbpPJwXP9hTCOySIYLGzJ3Ec=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3I1+H5p9p/M4HzB0a1kgbuYs4iW2n+O8u2YjT4RZvjU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMComplianceConstants.h</key>
