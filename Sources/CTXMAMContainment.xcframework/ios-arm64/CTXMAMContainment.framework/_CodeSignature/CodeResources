@@ -10,11 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lgM96/p8gACQ9JT+/4jku19JUm8=
+		5NRyYqbvPGkilukQgxj3D5OX8lk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		COlc39hqWPtvIDkFpH8BhDynDNc=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		l3DuCcUzYV/eN9+jUnUtwn3kx18=
 		</data>
 		<key>PrivateHeaders/CTXMAMContainmentConstants.h</key>
 		<data>
@@ -197,6 +201,13 @@
 			<key>hash2</key>
 			<data>
 			gPjd3M+CgWipSnRvd4JG0+2C+3emdYtMhLhdCUSjU64=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mpIKJLCctu7xkv0dKa4rjRWqb0tDUAFFEHAxE273OEA=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMContainmentConstants.h</key>

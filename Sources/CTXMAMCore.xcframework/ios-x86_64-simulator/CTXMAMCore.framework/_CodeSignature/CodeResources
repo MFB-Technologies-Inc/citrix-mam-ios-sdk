@@ -30,11 +30,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FDNZH7ZaV+mOCpc0gPOektZvTj8=
+		y0+nB9b3DaF4beGrxKFQJ47A9d8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		8O/sLdJl9FJ/aSMgUCrlAySGH+c=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		0DWEOA0JpHyO6prs/mdn2uoWePE=
 		</data>
 		<key>PrivateHeaders/AppDelegate.h</key>
 		<data>
@@ -564,6 +568,13 @@
 			<key>hash2</key>
 			<data>
 			xoE566j846f/8PORdRvCIkmrWsDnnBiPcI4NVGUL23I=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lIsxohVlgkukEePtrscHr0obqBBbifHY2SJqmAGwUNg=
 			</data>
 		</dict>
 		<key>PrivateHeaders/AppDelegate.h</key>

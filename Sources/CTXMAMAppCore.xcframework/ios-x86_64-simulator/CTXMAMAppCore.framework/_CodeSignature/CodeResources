@@ -6,15 +6,15 @@
 	<dict>
 		<key>AMLImageAssetBundle.bundle/Assets.car</key>
 		<data>
-		qQVhaOewgc6l9cf2gI5tU6ZW+TM=
+		QkRSb3O5miixnWms449M9Flj43U=
 		</data>
 		<key>AMLImageAssetBundle.bundle/Info.plist</key>
 		<data>
-		jG26AxotFRKO4gCVbAuBLdKrkJ0=
+		pECkR/YEzZHaqq4f9fRzoGCeVok=
 		</data>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		IyzE3BPrQ8hYZQkFE8xt/VDCk3g=
+		uViRHEu1xW/gEBV7XavV7X4eMi0=
 		</data>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		geEKLn7Omo/XtOH7R0Khu/iWG7Q=
+		xILyOuqqtHTI1pta6Q6rNNyvxLc=
 		</data>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		q6PlBCBueBAmUYNCCG4FyoVrk00=
+		Vu7gRbimEGFZEthhwaYBD/fVh9Q=
 		</data>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/Info.plist</key>
 		<data>
-		hlPUp20xfSw4dk3DcLzdo6hiQOY=
+		8IQD912MGSqyM8S4XUM9VX2cgLs=
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		vkjbthEwtZMZEWf8EPJW4gpxoR4=
+		tBGN11+kLmGIy9zE8oaGxHNOrGE=
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		fYbAoUqjKZpL7RLvpN3q6ParBKk=
+		zimlZS4kc9EpnegWeL3xT5IOFRg=
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -184,7 +184,7 @@
 		</dict>
 		<key>Headers/CTXMAMAppCore-Swift.h</key>
 		<data>
-		jC21omuSAI5wR9e0LrJl3ebHN58=
+		aQFoSuJch6U7npXVY+5X4SKO0d0=
 		</data>
 		<key>Headers/CTXMAMAppCore.h</key>
 		<data>
@@ -196,47 +196,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7x0khu8uxSdBi5gBo1KC6DbLFvA=
-		</data>
-		<key>Localizable.strings</key>
-		<data>
-		+JMDlGi4uYVmKSyif1pZf99nrMU=
+		BFtmBlBQVHn+fRiwhGDImlvhYBA=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Tvytbvnfk98cFLOStkwrg5ixBVA=
+		EBihPPlT6ObiiMJlui6mwtSuyXY=
 		</data>
-		<key>Modules/CTXMAMAppCore.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Tvytbvnfk98cFLOStkwrg5ixBVA=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		PviY+KvSbqeg7Zd4GKfK2MPCuiE=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		HX2RaY4iqY21tc8cFRbz62RkP74=
+		GqmEiItnX3Os/+mIDJXH2Wq6VVU=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9vP7kSL8PexUrfKxJGfmfNjQQXo=
+		PviY+KvSbqeg7Zd4GKfK2MPCuiE=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bRtJZjkRENMUs+0MarDzc2xJkN4=
-		</data>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		HX2RaY4iqY21tc8cFRbz62RkP74=
-		</data>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		9vP7kSL8PexUrfKxJGfmfNjQQXo=
-		</data>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		bRtJZjkRENMUs+0MarDzc2xJkN4=
+		PWxHOvCWuhkCO5BCyoXVERekgV4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ZGLhODZGGnuN/fUj7pwmEOdhUuY=
+		dXC0njb51zX/VgwHkx3MoDu6IdQ=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		l3DuCcUzYV/eN9+jUnUtwn3kx18=
 		</data>
 		<key>PrivateHeaders/CTXMAMAgentAppBindProperties.h</key>
 		<data>
@@ -280,7 +272,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManager+AppCore.h</key>
 		<data>
-		ftA+h3tMGQqlT7GWlGr3Ue30/P8=
+		fwRTu+ngM0d50yJYFbYuNrY6A/A=
 		</data>
 		<key>PrivateHeaders/CTXMAMLogCollector.h</key>
 		<data>
@@ -350,6 +342,168 @@
 		<data>
 		uxMinpgELtwuez83fuyHhaHBvY0=
 		</data>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			z+WUav3QbYevV7vvrlrO5yZRmaY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kWx9PjqPBrHvfDEX8J0C3OuqsN4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UgfSg1uFBo518M7zJ5+qFm1gUYk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5R93pS3iPOy4GUnoF3k0blZ7HaI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F4TJK2UqY2wYrYuOKC2N8DpkUg0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ce9F22Pdt0muoJC7IuFsOrmVj8o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>he.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GFnQU2X5iP6siqgwGh5E4QvitBM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QWPIGd7H9wE+4WkmXXB5Eyp1imI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EDWZ0a5oZpy1Grjg2PiLNzae7RI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FXa6vBgr0pb9g7aVWqNuIyGb8Fs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sgAf1IjGHwg+S2avm8RkPfEhAUg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl-PL.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q75jtRzdKJ+IC527chlRScMMI/A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5q3Ps/VominyrVZi2tNPSM4FEQ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tXOYquqO52RtclRzDQrd0/urTUw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JIWj+k1oegL3q8GlFK8ucQMxyS4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iUXix6jcp2Vi3WxC93s+h/Y4xkU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AaJK630Lt539enOHR5PAU6iDuDI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+4e21f+z/JWX+yrmgLyt0XGo/XA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -357,21 +511,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a3OauodoDHvxNjIWE4iWsJLcHDm8KEjhEQ1qGFgzRxw=
+			cOqs0m4KekB1CUZXgOZlCDYFvkOjUZQJAJ3N+thkoAE=
 			</data>
 		</dict>
 		<key>AMLImageAssetBundle.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GNarv1qA8Ez8v1KSInN22wQPcz/bCyOLaGgpYsXYhNs=
+			bE9msahW/kba7HhZ0JVmFyJS7s2+WxXGlibeUiZmTGA=
 			</data>
 		</dict>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eVAJUkWPSk1V2C5WoysmN40EghzKKezH1Z+DetJU4GI=
+			NMEfvTrwG8pFFlQ4fdfY6Db4v6LUF7y8xnt3/ACwsJA=
 			</data>
 		</dict>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements</key>
@@ -385,14 +539,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xVuaBX00Xeit+54uwCILSXZBMnbae4NcWq3a+X0G5RI=
+			11KcxprHMYxcFl8ghLw6m2LiGNNAEzzbPpJl6uCKqlY=
 			</data>
 		</dict>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b+T61t2hu6mlQjX+0/S6ZAvOG1L+owjbCH41jAqD3T4=
+			4p8XDXr1WX2wbe8DTsqNvkufFXheZSPGlg0qBPiRE1E=
 			</data>
 		</dict>
 		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeSignature</key>
@@ -406,14 +560,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2UeyCGQoZpzahJhnKS1nbE2M9SV+/AtO5R2Mp/yf1Ss=
+			IJLawF18fWPsauGrSQ6MVGl9jX+kwCdK6jYOIxsapdk=
 			</data>
 		</dict>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uB534FqMrK3egTIQFb346I0r+wmd9TMDhhFoosax7EA=
+			iDN3W7USVST/mLfPJSAT5/TO9ES2hWxhAZDLOE/OBiY=
 			</data>
 		</dict>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements</key>
@@ -427,7 +581,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+zh5U+T/e/MEshMUwv1g3eC5GDVJ+TJLqx85sQPZySM=
+			2uVSIDTYRB34VReIfD3e/c7rXtpY+9OaxJiCNRCWfvI=
 			</data>
 		</dict>
 		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeResources</key>
@@ -574,7 +728,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W8OKI5pj8YO8p52FpbnSe9nrE04ppzmXsr+eHhuSFxc=
+			xHH2OEww2IUdioi+y38e8RKGPYlwtGEnAgnMepzwUeo=
 			</data>
 		</dict>
 		<key>Headers/CTXMAMAppCore.h</key>
@@ -591,74 +745,60 @@
 			tGVIacRz7nuBgY8+0F98yzUH+ayowAyxdU8UeveX28E=
 			</data>
 		</dict>
-		<key>Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gtN8KwvxLbSpjjko9BAvO6QSnpI2Xc9vzKf+AkExLPc=
-			</data>
-		</dict>
 		<key>Modules/CTXMAMAppCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VA0w7tJKaB0qHEJIGXUUcicLGTTgUzdz7MHIsoIJsfU=
+			I1d7No114lw+UWf6ho+Fppicqbu0scAEtCQRc6V80ns=
 			</data>
 		</dict>
-		<key>Modules/CTXMAMAppCore.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VA0w7tJKaB0qHEJIGXUUcicLGTTgUzdz7MHIsoIJsfU=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZAIvFdzNP0ExF58GxhcSvhDFbBaXBXKNunoY+vIrkFE=
 			</data>
 		</dict>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0DQohr++7nTfzz9gZW7Dx8ycZSL/wnVIwv3qgk/gGRM=
+			7w9w11vrWCOYyrztomz5dX1v5Wuy6JNiseL6oghqZ8k=
 			</data>
 		</dict>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MeKmx1LjEpwx3vOIFU2crSQzW9aBpGOhGXdsvIdfmyk=
+			ZAIvFdzNP0ExF58GxhcSvhDFbBaXBXKNunoY+vIrkFE=
 			</data>
 		</dict>
 		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c3fmQ+5+DuHes+bweyna7a+Kl9wAThW4Fsv5nds6A3w=
-			</data>
-		</dict>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0DQohr++7nTfzz9gZW7Dx8ycZSL/wnVIwv3qgk/gGRM=
-			</data>
-		</dict>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MeKmx1LjEpwx3vOIFU2crSQzW9aBpGOhGXdsvIdfmyk=
-			</data>
-		</dict>
-		<key>Modules/CTXMAMAppCore.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c3fmQ+5+DuHes+bweyna7a+Kl9wAThW4Fsv5nds6A3w=
+			JJXUvZ4YEkW+vIIENlltlzG+XVT8eGPeMp5MgJ5qXXQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYJTMxfO2tGMkoyruIaswk/7P9Atao2TB2Tf+Z66jfg=
+			6XXqfSJuzkAKfSgK8NxqvfETt+GmTMRNlsWGZfQSUfU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mpIKJLCctu7xkv0dKa4rjRWqb0tDUAFFEHAxE273OEA=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMAgentAppBindProperties.h</key>
@@ -735,7 +875,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5XcfDbFbkmdI+EXokH296aDPveATdx56cSKrdJzjrv4=
+			YkgkwVjwR1cDFkVLsHUQkZf8zcUTMx6DqpB0yYgeDQw=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMLogCollector.h</key>
@@ -856,6 +996,168 @@
 			<data>
 			hUoadAkWGldGW9d4luW5AY9fkCF1umnucEW0nXIEC9I=
 			</data>
+		</dict>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vzVUPoicGvBM+78KgicrjhSVcop9M0ZO64r+5UB9Chw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qn2EeG5CDiGjTbY+iMYA+kTu1k3/+5qTsizJeFcmiTk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RmGgwXlauBzGmNIEN5Pn89MWie3ZEFKoSSx1YVhbK6o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L30kNhrGsEpxzeZWAo5a82sGtOj/BHrQnjKXPekvtyU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FfRAJ87etiVkLFovFxc7bD3vuR/TC9em8hd1+BNt1ro=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jwh7F2wwen6yUy1qYuWZ0P6OB+pGPPwFVd/dhxl+k9o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>he.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9kkkl3KOcisGO5IqyEToFfXflvi4ezv0ZBsP78Ffvws=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			llSOQ4l1XzmN3ZBWSx2T1O4U/zhhepTDg/dxM8i3TiQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7cg+5rQ4lIK+XOMomfbECPtCXN7vAYSSzhA7O8bI7io=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xclo7XVxg3/SsSxjlKwHDI+cWv2CksXdQUxe7BZDuRA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DaDwHXpj0Nmen41tBR40TKXDbpBg287G1hyoujlTJGc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl-PL.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lf2j/XRZKZGIAi2qEDfRZ536CVPHD3dTk3uFkCUOjMs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FlTcdTe0m0iydCWPGKjh5T4aLcr6YjVxRTFw5W2HI5o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nH0uzkrrrmj7HFO879aoIdChkhqmxTBgtY+tJVDhhmk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wOVuYdFnie/AOBPRcPmftJjmDYBq+UiY1WWccHiAzRY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KvEbiIqg0qwVM1gQsBu7MHmBClPRqqAjk/B6CbyB0S8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/tz7zPVMELEthdguC8gY8HsPwBoUuX1p1DD4jkyO2X0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uSDRwHtd9PimElGsVVH0IY+iclP2f8+oJ7G52A3Ig1g=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

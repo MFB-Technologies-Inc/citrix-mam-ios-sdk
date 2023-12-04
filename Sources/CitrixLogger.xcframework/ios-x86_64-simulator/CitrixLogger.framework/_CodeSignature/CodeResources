@@ -42,7 +42,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Fgf+5FgH4n2WeVMeY3r1LLlWna8=
+		+g1FarZQEPX6MdxxLXjXctzRHi4=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		pVpNv8QOvIc0TtIFQkuPXo2VKzc=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -117,6 +121,13 @@
 			<key>hash2</key>
 			<data>
 			CDiyzt4OCELu2oGwB6nHyTlQN4H98CsgHQmfvMg3GM4=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zRFywPxR9a+Wyk7p2zF4OYwgycr5jDPAM3k/pqKprOg=
 			</data>
 		</dict>
 		<key>en.lproj/InfoPlist.strings</key>
