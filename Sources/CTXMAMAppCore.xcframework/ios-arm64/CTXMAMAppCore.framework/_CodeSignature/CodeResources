@@ -12,49 +12,9 @@
 		<data>
 		HYL7YCKnAh9RZlH+HXztB5MzR2k=
 		</data>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		InNt7c5dzvR2aQlIEaYiWecic/c=
-		</data>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		cOVtqwIQ1BN2SOsK7ojXikrsT8s=
-		</data>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		3b/8NKJIFd1WHY4QSMUNz3dUZCc=
-		</data>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		Vu7gRbimEGFZEthhwaYBD/fVh9Q=
-		</data>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		BumUXzfdJxgh2hKGL+4l+uUZ8/A=
-		</data>
 		<key>AMLLocalizationStringBundle.bundle/Info.plist</key>
 		<data>
 		72/a13t3IpxPn/rUFDoy21zXYcY=
-		</data>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		HJOJQL/LCKRnn7+c3wHmypb3Jp4=
-		</data>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		PpQ/9NTEiYeDg5ejOmw28zwvFaw=
-		</data>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		xc6+EG4JEQMWZDSui1G3wA52bCI=
-		</data>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		JESQpI9ePCSBvuIap1KIoxYvr/k=
-		</data>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		VjMGkdg09yJyPrR6KmtQ9KpYHZ4=
 		</data>
 		<key>AMLLocalizationStringBundle.bundle/da.lproj/Localizable.strings</key>
 		<dict>
@@ -196,11 +156,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TPaETuo8ghG9nOHXAKDm3pqyNa4=
+		BDSpFkIR79rqXw66o0wqHRNayco=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		l2vQMlgHczFEK/pmUk+544KLCac=
+		f5ktQyrpAHe4tYTr348aD2szeZk=
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -220,7 +180,7 @@
 		</data>
 		<key>Modules/CTXMAMAppCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5s4x6MIKnn377yOOsuLBxuocaNE=
+		6oW5oF/dWu5b5TVBz1NIgVVG0+k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -280,7 +240,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMLogonManager.h</key>
 		<data>
-		jkruAWQKklKyQ66igRUEq6Jwge4=
+		JPzERQWr+a3Ub3NMI7CCkofV8fE=
 		</data>
 		<key>PrivateHeaders/CTXMAMLogonManagerPrivateTypes.h</key>
 		<data>
@@ -320,7 +280,7 @@
 		</data>
 		<key>PrivateHeaders/CtxSingleSignOn.h</key>
 		<data>
-		ydIDcBNS/kkEHEBVIKHMn5f+uNA=
+		2gcpmIN1tiXL4zlDw1MiHznqy4w=
 		</data>
 		<key>PrivateHeaders/IntuneConfigProvider.h</key>
 		<data>
@@ -521,81 +481,11 @@
 			stACxpqGxwOlLMRy3piaG8YWVrfywJJfTanjQBdyFHk=
 			</data>
 		</dict>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GsjgrDEuwsNhuUO4tY7/2r+LcOzEVhCg3PBqzBhWRPo=
-			</data>
-		</dict>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BTM+BAJJyuQW0AG4euWm2iNvQGyPHqDPBBF7ZQknlZA=
-			</data>
-		</dict>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m6dnpVpoH6QyBlAxgZ+mYszuV3yYbOMf68PypZHxUHw=
-			</data>
-		</dict>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4p8XDXr1WX2wbe8DTsqNvkufFXheZSPGlg0qBPiRE1E=
-			</data>
-		</dict>
-		<key>AMLImageAssetBundle.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RYUVYrfRkqHEPWx3lHqSDTs5RQ47so/MgVhUvXS/xvI=
-			</data>
-		</dict>
 		<key>AMLLocalizationStringBundle.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			lhOg5kQQJA0w8ZMwbS74glHY6vnY2jJxIUx+Y1Juzis=
-			</data>
-		</dict>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FfP2giDHRYm6LxTTosrpJR0yTaKjXAPUV4UmHivG2fc=
-			</data>
-		</dict>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f0DwVZASKFaFELkdvvRUocSNTBc5pR9bOff+gg4Ry/0=
-			</data>
-		</dict>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m1vkh+xffRDJSU+FIlC2VI4MR0eG5hzc+376vbXF6Zc=
-			</data>
-		</dict>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sxsCNq0r7J98KaBlZAwNGr0yQvjfUYXFe72LhEnxA5c=
-			</data>
-		</dict>
-		<key>AMLLocalizationStringBundle.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+9C7f/poOx9EMgdmRbOOIGIJ0SdE6HLJCXJtKRHeSzc=
 			</data>
 		</dict>
 		<key>AMLLocalizationStringBundle.bundle/da.lproj/Localizable.strings</key>
@@ -749,7 +639,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CG/aFC83oDuF1JN7ZNHLX+UtxvU0siekYl+C0FAAk5g=
+			2oA9Wx2FEW1/R7AWFLnQ29/Ushg/9Tzfd7gsoZikhNE=
 			</data>
 		</dict>
 		<key>Modules/CTXMAMAppCore.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -784,7 +674,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DHgEWTnCt15znutXxiLWdFl7tM9EBuTPdBl1ZH4FICQ=
+			CzXiWwSqmnRldpa7YygWlDsnyDe2SCz+hVFQTwMBfO4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -889,7 +779,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9c2Xb1WBtP80auLBzWRyJr6JbWHZKdxg/755wvGkyJ4=
+			Kls5tmjnzL79mL07Qmbmum/le/RVbfUaYNEZJLRt2WU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMLogonManagerPrivateTypes.h</key>
@@ -959,7 +849,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uWaXzeCEmsemv6t7VRv9G2BvVyxXELzbYMgeJg987dI=
+			1A1u0vNXTK1HxaeqxASPw+CcjonFwLAhp+SJjnlA9Ak=
 			</data>
 		</dict>
 		<key>PrivateHeaders/IntuneConfigProvider.h</key>
