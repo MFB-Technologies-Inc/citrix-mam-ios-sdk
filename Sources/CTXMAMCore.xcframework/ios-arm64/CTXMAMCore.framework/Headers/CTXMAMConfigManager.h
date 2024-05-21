@@ -28,7 +28,8 @@
 /*!
  @brief initializes the class, this function is not available for consumption please use sharedConfigManager in order to obtain an instance of this class.
  */
--(id) init NS_UNAVAILABLE;
+-(instancetype) init NS_UNAVAILABLE;
++(instancetype) new NS_UNAVAILABLE;
 
 /*!
  @brief the singleton of the CTXMAMConfigManager class.
