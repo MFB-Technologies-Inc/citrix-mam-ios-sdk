@@ -16,6 +16,10 @@
 		<data>
 		d3mShnHvYT22T4qBcySVAx89G8s=
 		</data>
+		<key>Headers/CTXMAMFeaturesV2ServiceManager.h</key>
+		<data>
+		ZIbTdwiRfIXXb4jvJYo38Uxiiw0=
+		</data>
 		<key>Headers/CTXMAMLogger.h</key>
 		<data>
 		X4Ed3+VjbUL5mHWTt5AM84WQX5I=
@@ -30,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bXAhGVPwiAs71qdCgWmAmIZ6WXo=
+		dCtqy4XIxjxdzqU/s5obiPUCnEI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +102,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManagerConstants.h</key>
 		<data>
-		BpUYQKQk/26V+eQ1cbRuIypLQ/Q=
+		uaEunvEPIashz3Zn/eaLpSVALZE=
 		</data>
 		<key>PrivateHeaders/CTXMAMConfigManagerPrivate.h</key>
 		<data>
@@ -114,7 +118,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMCore-PrefixHeader.pch</key>
 		<data>
-		cyrLw0BpoIJ4GRm7/iKXKILeXKs=
+		T2m0lqPnf4O6sN7np+UXg9ORd+A=
 		</data>
 		<key>PrivateHeaders/CTXMAMCoreConstants.h</key>
 		<data>
@@ -126,7 +130,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMCoreUtility.h</key>
 		<data>
-		gbTfSzW7NHPqdgMUDz8mzJK1+q8=
+		dwJRs9IUUcMVySLb/FAt85b/TeY=
 		</data>
 		<key>PrivateHeaders/CTXMAMDataStorage.h</key>
 		<data>
@@ -142,7 +146,7 @@
 		</data>
 		<key>PrivateHeaders/CTXMAMFeatureMgrConfig.h</key>
 		<data>
-		rxqxaz6WIfexKZlI8owJP5nL7oQ=
+		sz8jzFi77cgBTU+7AykypHY97qg=
 		</data>
 		<key>PrivateHeaders/CTXMAMFeatureMgrPrivate.h</key>
 		<data>
@@ -542,6 +546,13 @@
 			bBsw0UR4w9JP2aiDSpbHY1s53Mxv9icfV1CeUBFECo4=
 			</data>
 		</dict>
+		<key>Headers/CTXMAMFeaturesV2ServiceManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1kx21JlfQs9c/M+Ejpr2/EmI2PkvQiybvaMek5UQRe4=
+			</data>
+		</dict>
 		<key>Headers/CTXMAMLogger.h</key>
 		<dict>
 			<key>hash2</key>
@@ -679,7 +690,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IKBxk6RBKc8tH/sXqBDbz07jgccWKhmCmCymPvaUp0s=
+			Mk68+7skYHJGpshHeI2mjVzW/KtQJv3UqOgwLshP+r0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMConfigManagerPrivate.h</key>
@@ -707,7 +718,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A3Sk3VVpWWJBAuhWhR37RtpEoGJSzTjCakqOLxuKcX4=
+			DeoTlb43v41J1rvzONRKupLmE6N3loDc2FV0LqIwEnI=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMCoreConstants.h</key>
@@ -728,7 +739,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SmfCVuf5BTVfV0KripaKcbd59CATpuLCVFsmYrqKM9w=
+			Fk87b3mA2UMqEcffOgw2mnp80zz4jBIQVYY4HH1KkW4=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMDataStorage.h</key>
@@ -756,7 +767,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuNqqrSSG1limmrOYdws2kudzACG7stsHj3Qt86F/eA=
+			cMUplYU7rUCqBAQwb7dXc1JLkQ+SYDROLcxZUNkQZ7Q=
 			</data>
 		</dict>
 		<key>PrivateHeaders/CTXMAMFeatureMgrPrivate.h</key>
