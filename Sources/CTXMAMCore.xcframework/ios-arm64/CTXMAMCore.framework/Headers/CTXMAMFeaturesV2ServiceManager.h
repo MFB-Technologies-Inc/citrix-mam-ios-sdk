@@ -20,6 +20,7 @@
 -(instancetype) init NS_UNAVAILABLE;
 +(instancetype) new NS_UNAVAILABLE;
 
++(instancetype) instanceForAppName:(NSString *)appName hostName:(NSString *)hostName frontendToken:(NSString *)token;
 +(instancetype) instanceForAppName:(NSString *)appName frontendToken:(NSString *)token;
 
 -(void)setDefaultFeatureFlags:(NSDictionary<NSString *, NSNumber *> *)featureFlagsDict;

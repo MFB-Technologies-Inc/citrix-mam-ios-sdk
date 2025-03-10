@@ -1,7 +1,7 @@
 framework module CTXMAMAppCore {
   umbrella header "CTXMAMAppCore.h"
-
   export *
+
   module * { export * }
 }
 
