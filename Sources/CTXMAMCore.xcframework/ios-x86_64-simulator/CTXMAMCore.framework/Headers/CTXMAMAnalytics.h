@@ -45,7 +45,12 @@ extern NSString * const MdxAnalyticsComponent_StoreAccount;
 extern NSString * const MdxAnalyticsComponent_AGConfiguration;
 
 @interface CTXMAMAnalytics : NSObject 
-@property (readonly) BOOL analyticsEnabled, analyticsInitialized, analyticsConfigured, extendedAnalyticsFeatureOn, anonymousAnalytics;
+@property (readonly) BOOL analyticsEnabled; // UA is enabled or not
+@property (readonly) BOOL analyticsConfigured; // UA is configured or not
+@property (readonly) BOOL analytics4Enabled; // GA4 is enabled or not
+@property (readonly) BOOL analytics4Configured; // GA4 is configured or not
+@property (readonly) BOOL extendedAnalyticsFeatureOn;
+@property (readonly) BOOL anonymousAnalytics;
 
 +(instancetype)sharedInstance;
 
