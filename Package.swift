@@ -24,38 +24,38 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CitrixLogger",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CitrixLogger.xcframework.zip",
-            checksum: "87d0822403521355115b3dfada5ba3735c270cd0cebb68d337f927884479aadc"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CitrixLogger.xcframework.zip",
+            checksum: "43d82946fb52bb84de4bef4e1a85cceac13da68538bccfbcc19b6d93622616e8"
         ),
         .binaryTarget(
             name: "CTXMAMAppCore",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMAppCore.xcframework.zip",
-            checksum: "5a7922696b28db81417fed4f861ff4c2468cb0602149f9dd80d87ddbb21a2dc7"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMAppCore.xcframework.zip",
+            checksum: "4a3d867a9582f7c9b9acf74ed9af5d891b534ce513ea8840b1ca0d40d5174e02"
         ),
         .binaryTarget(
             name: "CTXMAMCompliance",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMCompliance.xcframework.zip",
-            checksum: "a08f6e3f0e2d339c4a76e356b320b93a1a8f4a5475e9744893e4fac72a86bd44"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMCompliance.xcframework.zip",
+            checksum: "3a89d91bcbddd39a8e82dde3d4fdb1e9b6c03dc0680971bb7611bb8b020e2fa1"
         ),
         .binaryTarget(
             name: "CTXMAMContainment",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMContainment.xcframework.zip",
-            checksum: "58883d9aaae499cc07c6da85df0f61ff12bea71f00e1229226327f38a716e7ec"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMContainment.xcframework.zip",
+            checksum: "4de76944e0280c1057713995a347c1436ec4943abf43608e8223215f884821c4"
         ),
         .binaryTarget(
             name: "CTXMAMCore",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMCore.xcframework.zip",
-            checksum: "c3cdcd2dc664e0f8df8f03090f60a09be5a9143c3ed02ea8fbf84cd1db780909"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMCore.xcframework.zip",
+            checksum: "ea5c2bd4ce37cd701515cfbbea1763c59951ad12af16e41cef852c7f0a8f6114"
         ),
         .binaryTarget(
             name: "CTXMAMLocalAuth",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMLocalAuth.xcframework.zip",
-            checksum: "11b20e5446bb04947f452f094b11c6576590f5b784aa21707b894074700d61d1"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMLocalAuth.xcframework.zip",
+            checksum: "2b6a520e70605a1bc361e9031e22de781d6dfdbdeccbcf6164525d9c1c1725b4"
         ),
         .binaryTarget(
             name: "CTXMAMNetwork",
-            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.5.0/CTXMAMNetwork.xcframework.zip",
-            checksum: "a3b1d3432b0bebb635a21e8d09a8b1d89fc43d9e2669b146dd47c32f18b24c83"
+            url: "https://github.com/MFB-Technologies-Inc/citrix-mam-ios-sdk/releases/download/pre-25.9.0/CTXMAMNetwork.xcframework.zip",
+            checksum: "42eb7d0a5e34da25dd8f72c3c52a528f410a288c747e45248535ee57fd3887a8"
         ),
     ]
 )
